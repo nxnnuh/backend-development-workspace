@@ -1,16 +1,12 @@
 # backend-development-workspace
-Development work in Application Development
 
-## Unit 2 Version Control 
-- Created gothub repository
-- added folders and readmes to each unit
-- commited
+##Overview
+This repository will be used to keep track of my projects in my RIZE course Application Development I.
 
-## unit 3
-- unit not yet started
+##Objectives
+For this course I would like to have a better understanding of application development and what skills I need to work on. 
 
-## unit 4
-- unit not yet started
+##Plan
+This repository will keep track of the material we cover and I will document new skills as I go. 
 
-## unit 5
-- unit not yet started
+
